@@ -73,7 +73,7 @@ h1 {
 .product-buy {
     display: flex;
     align-items: center;
-    padding: 0.5rem;
+    padding: 0.9rem;
     gap: 0.5rem;
     border-radius: 0.5rem;
     background-color: hsla(225, 100%, 94%, 0.4);
@@ -121,6 +121,6 @@ a{
         background-image: url(./images/pattern-background-desktop.svg);
     }
     .product-card {
-        max-width: 340px;
+        max-width: 350px;
     }
 }
