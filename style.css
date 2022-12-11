@@ -32,7 +32,7 @@ body {
     place-content: center;
     background-image: url(./images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-color: var(--Pale-blue);
 }
 h1 {
     font-size: 1.5rem;
